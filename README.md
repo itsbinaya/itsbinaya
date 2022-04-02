@@ -51,7 +51,7 @@
 </tbody>
 </table>
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=mebinaya.mebinaya" alt="Visitors Counter">
+<img src="https://visitor-badge.glitch.me/badge?page_id=itsbinaya.itsbinaya" alt="Visitors Counter">
     
 #### <p align="center"> Thank you for visiting my github repository. </p>
 
